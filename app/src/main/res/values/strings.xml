@@ -18,6 +18,8 @@
     <string name="niquel">Niquel</string>
     <string name="peso">Peso</string>
     <string name="dolar">Dolar</string>
+    <string name="error_ingrese_valor">Debe ingresar un valor</string>
+    <string name="error_ingrese_valor_mayor">Ingreso un numero mayor que 0</string>
     <string-array name="materiales">
         <item>@string/cuero</item>
         <item>@string/cuerda</item>
