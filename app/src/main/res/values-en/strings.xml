@@ -19,4 +19,6 @@
     <string name="niquel">Nickel</string>
     <string name="dolar">Dollar</string>
     <string name="peso">Colombian money</string>
+    <string name="error_ingrese_valor">" You must enter a value"</string>
+    <string name="error_ingrese_valor_mayor">Enter a number greater than 0</string>
 </resources>
